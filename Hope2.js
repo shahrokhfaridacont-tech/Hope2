@@ -1,6 +1,6 @@
 // Replace this with your Worker hostname only, without "https://".
 // Example: "zyrln.your-subdomain.workers.dev"
-const WORKER_HOST = "CHANGE_ME_WORKER_HOST";
+const WORKER_HOST = "hope2-sage.vercel.app";
 
 export default {
   async fetch(request) {
